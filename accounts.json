@@ -1,0 +1,12 @@
+[
+  {
+    "login": "login1",
+    "password": "pass1",
+    "proxy": "proxy_address1"
+  },
+  {
+    "login": "login2",
+    "password": "password2",
+    "proxy": "proxy_address2"
+  }
+]
